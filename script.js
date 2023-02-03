@@ -1,7 +1,7 @@
 let musicas = [
-    {titulo: 'Guitar solo', artista: 'Joao Tinti', src: 'musicas/Cat Poc - MAWTHAM.mp3', img: 'imagens/OIP.jpeg'},
-    {titulo: 'Forró', artista: 'Zequinha do arrastapé', src: 'musicas/07. Ela e Americana.mp3', img: 'imagens/R.jpeg'},
-    {titulo: 'Rock', artista: 'Doidinho do Maculelê', src: 'musicas/05. Pistoleiro do amor.mp3', img: 'imagens/descarregar.jpeg'}
+    {titulo: 'Addict', artista: 'Asterix', src: 'musicas/Addict - NEFFEX.mp3', img: 'imagens/drums.jpeg'},
+    {titulo: 'County Lines', artista: 'Beavis', src: 'musicas/County Lines - Telecasted.mp3', img: 'imagens/guitar 2.jpeg'},
+    {titulo: 'Thunder', artista: 'Muttley', src: 'musicas/Thunder - Telecasted.mp3', img: 'imagens/guitar.jpeg'}
 ];
 
 let musica = document.querySelector('audio');
